@@ -1,4 +1,4 @@
-# Análise de Dados Estelares
+# Projeto de Data Science: Análise de Dados Estelares
 
 ## Índice
 
